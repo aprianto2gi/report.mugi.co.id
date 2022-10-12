@@ -2,7 +2,7 @@
 Apa itu report.mugi.co.id
 ###################
 
-report.mugi.co.id adalah laporan yang digunakan untuk menampilkan data stok nasional, inventaris nasional, pesanan dan permintaan, dan piutang dagang.
+report.mugi.co.id adalah laporan yang digunakan untuk menampilkan data stok nasional, inventaris nasional, pesanan dan permintaan, dan piutang dagang. Laporan ini yang akan digunakan oleh GM.
 
 
 *******************
